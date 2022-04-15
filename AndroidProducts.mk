@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lighthouse_phoenix.mk
+    $(LOCAL_DIR)/awaken_phoenix.mk
 
 COMMON_LUNCH_CHOICES := \
-    lighthouse_phoenix-user \
-    lighthouse_phoenix-userdebug \
-    lighthouse_phoenix-eng
+    awaken_phoenix-user \
+    awaken_phoenix-userdebug \
+    awaken_phoenix-eng
